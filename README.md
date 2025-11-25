@@ -1,11 +1,3 @@
-# Projet de Gestion de Livraison
-
-Application complète de gestion de livraison avec Spring Boot (back-end) et React (front-end).
-
-## 📋 Fonctionnalités
-
-### Livreur
-- ✅ Ajouter une commande
 - ✅ Modifier une commande
 - ✅ Supprimer (annuler) une commande
 - ✅ Consulter ses commandes
@@ -104,7 +96,7 @@ L'application crée automatiquement des comptes de test au démarrage :
 ## 📚 Documentation API
 
 Une fois le back-end démarré, accédez à la documentation Swagger :
-- **URL**: `http://localhost:8080/swagger-ui.html`
+
 - **API Docs**: `http://localhost:8080/v3/api-docs`
 
 ## 🎯 Utilisation
@@ -161,7 +153,7 @@ miniprojetsoa/
 - Spring Security avec JWT
 - Spring Data JPA
 - PostgreSQL Driver
-- Swagger/OpenAPI 3
+
 - Maven
 
 ### Front-end
@@ -217,7 +209,4 @@ npm run build
 
 Ce projet est un projet éducatif.
 
-## 👨‍💻 Auteur
-
-Projet de gestion de livraison - Spring Boot + React
 
